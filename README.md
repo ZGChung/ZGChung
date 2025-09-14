@@ -4,7 +4,7 @@ I am an AI engineer / Data Scientist working at Apple.
 Besides my job, I do:
 
 - Scientific research in LLM, recently focusing on RL and Multi-Agent Systems.
-- Full-stack web app dev, implementing and trying my silly or funny ideas.
+- Full-stack web / iOS app development, implementing and trying my silly or funny ideas.
 - Bar exploration, hunting all the niche bars in different cities.
 
 Actively looking for new challenges / opportunities in LLM.
